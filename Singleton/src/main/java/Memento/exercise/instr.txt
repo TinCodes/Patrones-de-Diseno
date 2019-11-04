@@ -1,0 +1,7 @@
+Se tiene un repositorio donde se versiona código de un proyecto de software,
+al momentode  subir un cambio se tienen los siguientes atributos :
+    mensaje del commit, el cambio en el código, el autor y fecha.
+
+Cuando se guarda el cambio se genera un número de commit que nos permite volver a esa específica version (i.e: commit234),
+una vez que se termina la primera sección del software se tienen almacenados 10 commits.
+Luego se desea volver al5to commit para ver los cambios que se hicieron en esa versión del código.
